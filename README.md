@@ -26,6 +26,12 @@ The RadVPN doesn't need any central point as it connects to other nodes directly
 https://github.com/kanocz/lcvpn 
 Light decentralized VPN in golang
 
+https://github.com/skx/simple-vpn
+A simple VPN allowing mesh-like communication between nodes, over websockets
+
+https://github.com/mysteriumnetwork/node
+Mysterium Node - decentralized VPN built on blockchain
+
 ## [Component or library]
 
 ### 01. Needing to read the code and understand its operating principle, and use it as a component or library.
