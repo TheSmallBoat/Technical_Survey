@@ -1,6 +1,16 @@
 # [BlockChain]
 
 
+## [gossamer]
+https://github.com/ChainSafe/gossamer
+
+Gossamer: A Go implementation of the Polkadot Host (WIP)
+
+Gossamer is an implementation of the Polkadot Host - a blockchain framework used to build and run nodes for different blockchain protocols within the Polkadot ecosystem.
+
+Gossamer includes node implementations for major blockchains within the Polkadot ecosystem and makes building node implementations for other blockchains trivial; blockchains built with Substrate can plug their compiled runtime into Gossamer to create a node implementation in Go.
+
+
 ## [boscore]
 
 https://github.com/boscore
