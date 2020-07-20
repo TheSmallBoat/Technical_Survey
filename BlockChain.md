@@ -1,5 +1,9 @@
 # [BlockChain]
 
+## [fractal]
+https://github.com/fractal-platform/fractal
+go version for fractal blockchain
+
 
 ## [gossamer]
 https://github.com/ChainSafe/gossamer
