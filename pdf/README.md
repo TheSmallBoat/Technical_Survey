@@ -24,3 +24,5 @@
 11. Succinct Non-Interactive Zero Knowledge for a von Neumann Architecture (2013-879.pdf)
 
 12. On the Size of Pairing-based Non-interactive Arguments (2016-260.pdf)
+
+13. Roll-DPoSk: A Randomized Delegated Proof of Stake Scheme for Scalable Blockchain-Based Internet of Things Systems (Roll-DPoSk.pdf)
