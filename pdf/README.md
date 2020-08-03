@@ -32,3 +32,6 @@
 15. Scalable Practical Byzantine Fault Tolerance with Short-Lived Signature Schemes (PBFT.pdf)
 
 16. Proof-of-Proof and VeriBlock Blockchain Protocol Consensus Algorithm and Economic Incentivization Specifications (Proof-of-Proof.pdf)
+
+17. Tezos — a self-amending crypto-ledger White paper (Tezos.pdf)
+
