@@ -6,4 +6,6 @@
 
 03. HotStuff: BFT Consensus in the Lens of Blockchain (1803.05069.pdf)
 
-04. 
+04. Simple Proofs of Space-Time and Rational Proofs of Storage (2016-035.pdf)
+
+05. Proof of Replication Technical Report (WIP) (proof-of-replication.pdf)
