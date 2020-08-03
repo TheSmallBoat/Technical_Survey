@@ -9,3 +9,5 @@
 04. Simple Proofs of Space-Time and Rational Proofs of Storage (2016-035.pdf)
 
 05. Proof of Replication Technical Report (WIP) (proof-of-replication.pdf)
+
+06. The Noise Protocol Framework (noise.pdf)
