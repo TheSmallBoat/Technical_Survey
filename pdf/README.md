@@ -26,3 +26,5 @@
 12. On the Size of Pairing-based Non-interactive Arguments (2016-260.pdf)
 
 13. Roll-DPoSk: A Randomized Delegated Proof of Stake Scheme for Scalable Blockchain-Based Internet of Things Systems (Roll-DPoSk.pdf)
+
+14. Massive Data Streams Research: Where to Go (Massive-Data-Streams.pdf)
