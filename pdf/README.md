@@ -11,3 +11,5 @@
 05. Proof of Replication Technical Report (WIP) (proof-of-replication.pdf)
 
 06. The Noise Protocol Framework (noise.pdf)
+
+07. The QUIC Transport Protocol: Design and Internet-Scale Deployment (46403.pdf)
