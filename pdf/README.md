@@ -20,3 +20,5 @@
 
 10. Pinocchio: Nearly Practical Verifiable Computation (2013-279.pdf) 
  Pinocchio generalizes to zero-knowledge proofs at a negligible cost over the base protocol.
+ 
+11. Succinct Non-Interactive Zero Knowledge for a von Neumann Architecture (2013-879.pdf)
