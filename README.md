@@ -36,19 +36,10 @@ Mysterium Node - decentralized VPN built on blockchain
 
 https://github.com/TheSmallBoat/Technical_Survey/blob/master/BlockChain.md
 
-## [Component or library]
+## [PDF]
 
-### 01. Needing to read the code and understand its operating principle, and use it as a component or library.
-ComponentOrLibrary01.md
-[https://github.com/TheSmallBoat/TechnicalSurvey/blob/master/ComponentOrLibrary01.md]
+https://github.com/TheSmallBoat/Technical_Survey/blob/master/pdf
 
 
-### 02. Needing to read the code and understand its detail, as the base of refactoring code.
-ComponentOrLibrary02.md
-[https://github.com/TheSmallBoat/TechnicalSurvey/blob/master/ComponentOrLibrary02.md]
-
-### 03. Do not read the detail code and just know how to use. 
-ComponentOrLibrary03.md
-[https://github.com/TheSmallBoat/TechnicalSurvey/blob/master/ComponentOrLibrary03.md]
 
 
