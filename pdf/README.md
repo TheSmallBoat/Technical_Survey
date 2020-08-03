@@ -17,3 +17,6 @@
 08. Drynx: Decentralized, Secure, Verifiable System for Statistical Queries and Machine Learning on Distributed Datasets (1902.03785.pdf)
 
 09. Improving Peer-to-Peer Video Streaming (dissertation.pdf)
+
+10. Pinocchio: Nearly Practical Verifiable Computation (2013-279.pdf) 
+ Pinocchio generalizes to zero-knowledge proofs at a negligible cost over the base protocol.
