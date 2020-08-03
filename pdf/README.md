@@ -22,3 +22,5 @@
  Pinocchio generalizes to zero-knowledge proofs at a negligible cost over the base protocol.
  
 11. Succinct Non-Interactive Zero Knowledge for a von Neumann Architecture (2013-879.pdf)
+
+12. On the Size of Pairing-based Non-interactive Arguments (2016-260.pdf)
