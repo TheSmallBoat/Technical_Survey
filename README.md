@@ -36,6 +36,12 @@ Mysterium Node - decentralized VPN built on blockchain
 
 https://github.com/TheSmallBoat/Technical_Survey/blob/master/BlockChain.md
 
+## [DataBase]
+https://github.com/TheSmallBoat/Technical_Survey/blob/master/DB.md
+
+## [Tools]
+https://github.com/TheSmallBoat/Technical_Survey/blob/master/Tools.md
+
 ## [PDF]
 
 https://github.com/TheSmallBoat/Technical_Survey/blob/master/pdf
