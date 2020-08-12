@@ -50,3 +50,5 @@
 24. Tezos — a self-amending crypto-ledger White paper (Tezos.pdf)
 
 25. Chord: A Scalable Peer-to-peer Lookup Protocol for Internet Applications (chord.pdf)
+
+26. OpenDHT: A Public DHT Service and Its Uses (opendht-sigcomm2005.pdf)
