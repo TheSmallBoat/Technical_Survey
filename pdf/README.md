@@ -52,3 +52,5 @@
 25. Chord: A Scalable Peer-to-peer Lookup Protocol for Internet Applications (chord.pdf)
 
 26. OpenDHT: A Public DHT Service and Its Uses (opendht-sigcomm2005.pdf)
+
+27. LittleTable: A Time-Series Database and Its Uses (p125-rhea.pdf)
