@@ -48,3 +48,5 @@
 23. Proof-of-Proof and VeriBlock Blockchain Protocol Consensus Algorithm and Economic Incentivization Specifications (Proof-of-Proof.pdf)
 
 24. Tezos — a self-amending crypto-ledger White paper (Tezos.pdf)
+
+25. Chord: A Scalable Peer-to-peer Lookup Protocol for Internet Applications (chord.pdf)
