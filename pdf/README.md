@@ -53,4 +53,8 @@
 
 26. OpenDHT: A Public DHT Service and Its Uses (opendht-sigcomm2005.pdf)
 
-27. LittleTable: A Time-Series Database and Its Uses (p125-rhea.pdf)
+27. Kademlia: A Peer-to-peer Information System Based on the XOR Metric (kademlia_2492563.pdf)
+
+28. S/Kademlia: A practicable approach towards secure key-based routing (skademlia_4319659.pdf)
+
+29. LittleTable: A Time-Series Database and Its Uses (p125-rhea.pdf)
