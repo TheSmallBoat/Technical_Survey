@@ -39,6 +39,8 @@ https://github.com/TheSmallBoat/Technical_Survey/blob/master/BlockChain.md
 ## [DataBase]
 https://github.com/TheSmallBoat/Technical_Survey/blob/master/DB.md
 
+Distributed Data Store (DDS) https://github.com/TheSmallBoat/Technical_Survey/tree/master/DDS
+
 ## [Tools]
 https://github.com/TheSmallBoat/Technical_Survey/blob/master/Tools.md
 
