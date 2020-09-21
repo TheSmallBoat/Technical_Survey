@@ -42,7 +42,7 @@ https://github.com/TheSmallBoat/Technical_Survey/blob/master/DB.md
 ## [Tools]
 https://github.com/TheSmallBoat/Technical_Survey/blob/master/Tools.md
 
-## [PDF]
+## [Paper PDF]
 
 https://github.com/TheSmallBoat/Technical_Survey/blob/master/pdf
 
