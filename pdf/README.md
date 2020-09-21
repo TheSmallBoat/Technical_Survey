@@ -1,4 +1,4 @@
-## PDF
+## Paper PDF
 
 01. Introducing the new paradigm of Social Dispersed Computing: Applications, Technologies and Challenges (S1383762118301036.pdf)
 
